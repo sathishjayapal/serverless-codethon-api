@@ -1,61 +1,31 @@
 {
-
-    "data": {
-
-        "invoicePayments": {
-
-            "isNextPaymentRequestAvailable": true,
-
-            "invoicePayments": [
-
-                {
-
-                    "invoicePaymentID": "3889a25da11c",
-
-                    "shoppingCartID": null,
-
-                    "invoiceAmount": 63745,
-
-                    "paymentAmount": 63745,
-
-                    "paymentDueDate": "2023-05-17",
-
-                    "paymentDate": "2023-05-17",
-
-                    "paymentType": "BNPL",
-
-                    "status": "PENDING",
-
-                    "statusTimestamp": null
-
-                },
-
-                {
-
-                    "invoicePaymentID": "3889a25da11c",
-
-                    "shoppingCartID": null,
-
-                    "invoiceAmount": 63745,
-
-                    "paymentAmount": 63745,
-
-                    "paymentDueDate": "2023-05-17",
-
-                    "paymentDate": "2023-05-17",
-
-                    "paymentType": "SPLIT",
-
-                    "status": "PAYMENT_REQUESTED",
-
-                    "statusTimestamp": null
-
-                }
-
-            ]
-
-        }
-
-    }
-
+    "data": {
+        "invoicePayments": {
+            "isNextPaymentRequestAvailable": true,
+            "invoicePayments": [
+                {
+                    "invoicePaymentID": "3889a25da11c",
+                    "shoppingCartID": null,
+                    "invoiceAmount": 63745,
+                    "paymentAmount": 63745,
+                    "paymentDueDate": "2023-05-17",
+                    "paymentDate": "2023-05-17",
+                    "paymentType": "BNPL",
+                    "status": "PENDING",
+                    "statusTimestamp": null
+                },
+                {
+                    "invoicePaymentID": "3889a25da11c",
+                    "shoppingCartID": null,
+                    "invoiceAmount": 63745,
+                    "paymentAmount": 63745,
+                    "paymentDueDate": "2023-05-17",
+                    "paymentDate": "2023-05-17",
+                    "paymentType": "SPLIT",
+                    "status": "PAYMENT_REQUESTED",
+                    "statusTimestamp": null
+                }
+            ]
+        }
+    }
 }
